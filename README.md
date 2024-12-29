@@ -1,0 +1,1 @@
+This repository contains examples of less common errors encountered when working with VBScript.  These examples highlight issues related to late binding, implicit type conversion, and the potential pitfalls of using On Error Resume Next.  The solutions provided demonstrate best practices to avoid and handle these types of errors.
